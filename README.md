@@ -21,10 +21,10 @@ Model used for classification layer
 Accuracy (51 Multiple Choice Questions)
 XLNet
 98.0%
-RoBerta
-96.0%
 BERT
 96.1%
+RoBerta
+96.0%
 BART
 94.1%
 T5
